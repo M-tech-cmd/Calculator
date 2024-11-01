@@ -31,4 +31,4 @@ To run the calculator locally, follow these steps:
 
 cd calculator
 
-![[image alt](https://github.com/M-tech-cmd/Calculator/blob/5e61ad5f75b8b12dc1d5895c03123a8583676f5f/Screenshot_.jpeg)
+![image alt](https://github.com/M-tech-cmd/Calculator/blob/5e61ad5f75b8b12dc1d5895c03123a8583676f5f/Screenshot_.jpeg)
